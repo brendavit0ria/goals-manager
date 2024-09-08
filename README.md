@@ -1,3 +1,5 @@
+<h1 align="center"> GOALS MANAGER </h1>
+
 <p align="center">
 O aplicativo de gerenciamento de metas foi desenvolvido com o intuito de ajudar os usuários a organizar e acompanhar suas tarefas e objetivos.
  <br/>
